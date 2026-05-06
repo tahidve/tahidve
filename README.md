@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Computer Science student at HCMUT focused on Java/Spring Boot backend systems.
+Computer Science student at HCMUT focused on backend systems.
 
 [![Phone](https://img.shields.io/badge/Phone-0855186160-1f6feb?style=flat-square&logo=phone&logoColor=white)](tel:0855186160)
 [![Email](https://img.shields.io/badge/Email-nguyenminhthai1114%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenminhthai1114@gmail.com)
