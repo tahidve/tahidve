@@ -16,7 +16,7 @@ Computer Science student at HCMUT focused on backend systems.
 
 ## 🚀 Profile
 
-Computer Science student at HCMUT with hands-on experience building and deploying production-grade backend systems. Passionate about designing scalable REST APIs, complex transactional flows, and compiler internals. Seeking a Java Backend Internship to contribute to real-world systems with measurable impact.
+I'm a Computer Science student at HCMUT with hands-on experience building backend systems from database to production deployment. Seeking a Java Backend Internship to contribute to real-world systems with measurable impact.
 
 ## 🎓 Education
 
